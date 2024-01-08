@@ -1,0 +1,27 @@
+{
+  "name": "curso-api-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristalCamillo/curso-api-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristalCamillo/curso-api-mongodb/issues"
+  },
+  "homepage": "https://github.com/ChristalCamillo/curso-api-mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^7.3.4",
+    "nodemon": "^3.0.1"
+  }
+}
